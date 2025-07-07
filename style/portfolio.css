@@ -88,3 +88,15 @@ main{
 .item-description{
     font-weight: bold;
 }
+.text-center{
+    align-items: center;
+    text-align: center;
+}
+.skill-conteiner{
+    display: flex;
+    gap: 24px;
+}
+.skill{
+    padding: 30px;
+    box-shadow: 0px 6px 50px 0px;
+}
